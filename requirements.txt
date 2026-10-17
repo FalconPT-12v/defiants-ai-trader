@@ -1,0 +1,7 @@
+web3>=7
+eth-account
+google-genai
+pandas
+requests
+python-dotenv
+pillow

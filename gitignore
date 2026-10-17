@@ -1,0 +1,21 @@
+# --- SEGREDOS: nunca devem ir para o GitHub ---
+.env
+wallet.json
+gemini.key
+
+# --- Estado e dados locais do bot ---
+settings.json
+estado.json
+trades.csv
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Editor / sistema ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
